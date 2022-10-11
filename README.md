@@ -19,3 +19,8 @@ Reopened this dusty old project to:
 - Note where I sourced the data from
 - Fix some warnings (making changes to copies of data frames)
 - Attempt to transition to dev-container setup in VSCode
+
+**Notes**
+- Run this to install podman: ```console sudo apt install podman podman-docker ```
+- This article to replace docker desktop with Podman (best alternative) https://blog.lifeishao.com/2021/12/30/replacing-docker-with-podman-for-your-vscode-devcontainers/
+- 
