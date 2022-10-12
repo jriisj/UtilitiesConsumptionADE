@@ -23,4 +23,9 @@ Reopened this dusty old project to:
 **Notes**
 - Run this to install podman: ```console sudo apt install podman podman-docker ```
 - This article to replace docker desktop with Podman (best alternative) https://blog.lifeishao.com/2021/12/30/replacing-docker-with-podman-for-your-vscode-devcontainers/
-- 
+- Guide: Create a jupyter dev container https://blog.nillsf.com/index.php/2021/05/19/development-containers-in-visual-studio-code-are-awesome/
+
+### 2022-10-12
+- Gave up on Podman (insert profanity here)
+- Installed Docker Desktop on my machine
+- No project progress registered
